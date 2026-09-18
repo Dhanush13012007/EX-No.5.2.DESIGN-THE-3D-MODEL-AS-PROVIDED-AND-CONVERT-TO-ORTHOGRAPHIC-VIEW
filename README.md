@@ -1,4 +1,4 @@
-# EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/80ae9c8c-942c-47f4-b43b-d234561ad2b4" /><img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/332395d4-3cbe-4b2d-b2d6-318bfcbdc513" /># EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
 ## AIM: 
@@ -36,6 +36,12 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/0f7ad8d1-c708-4b7b-bffe-ae75e085b42c" />
+
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/9a2ee7ca-ee7a-456d-b84f-3070cad634f0" />
+
+
 
 
 ## RESULT:
